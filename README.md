@@ -1,5 +1,5 @@
 
-### Serviços utilizados nessa atividade prática
+### Serviços utilizados
  - Amazon S3
  - Amazon Glue
  - Amazon Athena
